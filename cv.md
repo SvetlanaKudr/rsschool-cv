@@ -1,4 +1,3 @@
-***
 # Svetlana Kudryashova
 ![Здесь должно быть фото, но его почему-то нет](https://sun9-84.userapi.com/impg/_gwvvcD_s9VKRIn9y_x0TytsLY6penECLopefA/DmlsaGNJ4KA.jpg?size=640x640&quality=96&sign=32ee45daf118ed45cea86ca499da6a6e&type=album)
 ***
