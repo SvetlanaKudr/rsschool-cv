@@ -5,15 +5,14 @@
 * **Discord:** Евстафий Петрович#5307
 * **Telegram:** [sevodnyaska](https://t.me/sevodnyaska)
 * **LinkedIn:** [Svetlana Kudryashova](https://www.linkedin.com/in/svetlana-kudryashova-71704823b/)
-## About Me
-I am 28 years old, i work as a process engineer. I love video games, climbing and coffee.
-I want to learn something new and change my life for the better, so here i am.
+* ## About Me
+I am 28 years old, i work as a process engineer. I love video games, climbing and coffee. I want to learn something new and change my life for the better, so here i am.
 ## Skills
 * Git Bash
 * HTML
 * CSS
 * Procrastination
-## Code Example
+* ## Code Example
 ~~~
 multiply = function (a, b) {
   return a*b;
@@ -21,7 +20,7 @@ multiply = function (a, b) {
 ~~~
 ## Education
 * [Samara State Aerospace University](https://ssau.ru/)
-Automation of Technological Processes and Production
-2011-2015
+  + Automation of Technological Processes and Production
+  + 2011-2015
 ## English
 * [EF SET Quick check](https://www.efset.org/ru/quick-check/) result: B1
