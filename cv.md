@@ -6,7 +6,7 @@
 * **Telegram:** [sevodnyaska](https://t.me/sevodnyaska)
 * **LinkedIn:** [Svetlana Kudryashova](https://www.linkedin.com/in/svetlana-kudryashova-71704823b/)
 ## About Me
-I am 28 years old, i work as a process engineer. I love video games, climbing and coffee. I want to learn something new and change my life for the better, so here i am.
+I am 28 years old, I work as a process engineer. I love video games, climbing and coffee. I want to learn something new and change my life for the better, so here I am.
 ## Skills
 * Git Bash
 * HTML
